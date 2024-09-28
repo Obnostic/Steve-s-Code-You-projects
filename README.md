@@ -20,7 +20,7 @@ do until correct or trial = 2
 # Add your pseudocode to this file below this line: #
 # ------------------------------------------------- #
 
-
+)Minesweeper, simple grid of 9 blocks(
 
 
 # Client Task C #
